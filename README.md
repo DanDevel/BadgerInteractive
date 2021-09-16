@@ -1,7 +1,7 @@
 # BadgerInteractive 
 Interactive content for BADGER Gitcoin's Hackathon
 
-# Search: #BadgerDaoMEMES on Twitter to see the result of my tests.
+# Search: #BadgerDaoMEMES on Twitter to see the result.
 
 # BOT for Badger DAO interaction on twitter.
 
@@ -12,7 +12,7 @@ Send text messages in french to France territory and English to US territory.
 
 How it works:
 
-before run this code... >>> insert your twitter credentials:
+# before run this code... >>> insert your twitter credentials:
 
 CONSUMER_KEY=''
 CONSUMER_SECRET=''
