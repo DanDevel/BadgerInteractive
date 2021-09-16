@@ -2,7 +2,7 @@
 Interactive content for BADGER Gitcoin's Hackathon
 
 
-This is my bot Twitter BOT for Badger DAO interaction on twitter.
+BOT for Badger DAO interaction on twitter.
 
 
 Work in 2 languages: ENGLISH and FRENCH. (can be improved more languages for the next versions).
