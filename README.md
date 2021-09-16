@@ -20,6 +20,8 @@ ACCESS_TOKEN=''
 ACCESS_TOKEN_SECRET=''
 BEARER_TOKEN=''
 
+# step by step tweet workflow:
+this is what the bot will do.
 
 1 - choose a random time between 5 and 15 minutes.
 2 - choose a random language 'en' or 'fr'
