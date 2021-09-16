@@ -39,6 +39,17 @@ Improve memes according with events:
 
 We can create more images for the meme parts and sort by themes, for example, xmas background images: image1 to image20, night: image21 to image30 etc etc etc...
 
+# images used on meme creation:
+
+background images are on backgrnd folder, cap images are on cap folder, glass images are on glass folder  etc ...
+add or change images to created more different memes.
+
+# tips
+for each part of the meme, we have 5 images, so while searching for a random image our code search on a range between 1 and 5. if you put 10 glasses images on glass folder, change the range on code to 1 and 10. 
+
+# all you need to do is run this script file: twitterBADGER.py . easy and simple.
+
+
 
 
 
