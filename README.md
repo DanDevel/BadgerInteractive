@@ -1,6 +1,7 @@
-# BadgerInteractive
+# BadgerInteractive 
 Interactive content for BADGER Gitcoin's Hackathon
 
+# Search: #BadgerDaoMEMES on Twitter to see the result of my tests.
 
 BOT for Badger DAO interaction on twitter.
 
