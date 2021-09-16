@@ -12,6 +12,15 @@ Send text messages in french to France territory and English to US territory.
 
 How it works:
 
+before run this code... >>> insert your twitter credentials:
+
+CONSUMER_KEY=''
+CONSUMER_SECRET=''
+ACCESS_TOKEN=''
+ACCESS_TOKEN_SECRET=''
+BEARER_TOKEN=''
+
+
 1 - choose a random time between 5 and 15 minutes.
 2 - choose a random language 'en' or 'fr'
 3 - choose a place according the language... New York, California, Paris, Lyon...
