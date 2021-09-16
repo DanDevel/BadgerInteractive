@@ -3,10 +3,12 @@ Interactive content for BADGER Gitcoin's Hackathon
 
 # Search: #BadgerDaoMEMES on Twitter to see the result of my tests.
 
-BOT for Badger DAO interaction on twitter.
+# BOT for Badger DAO interaction on twitter.
 
+Send a tweet with text and auto generated meme, any place in US or France.
+Send text messages in french to France territory and English to US territory.
 
-Work in 2 languages: ENGLISH and FRENCH. (can be improved more languages for the next versions).
+# Work in 2 languages: ENGLISH and FRENCH. (can be improved more languages for the next versions).
 
 How it works:
 
