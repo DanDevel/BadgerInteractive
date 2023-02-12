@@ -33,6 +33,12 @@ from datetime import datetime, timezone
 import msgs_lib
 from msgs_lib import *
 
+
+# first lets check if folders exists, if not, we created it locally.
+import helpers
+from helpers import *
+createFolderDir()
+
 local_template_folder = str(Path(__file__).parent.absolute()) + str('/Templates')
 local_imgs_folder = str(Path(__file__).parent.absolute()) + str('/imgs')
 
